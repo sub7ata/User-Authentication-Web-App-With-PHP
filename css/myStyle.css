@@ -1,0 +1,88 @@
+/******************Search box****************/
+#search_Box{
+    float: right;
+    margin-top: 12px;
+    margin-left: 100px;
+    background-repeat: no-repeat;
+    
+    outline: none;
+}
+
+
+.text{
+    border-radius: 30px;
+
+
+}
+.submit_SearchBox{
+    border-radius:30px;
+}
+/******End Serach box****/
+
+/****Welcom****/
+#left_sidebar{
+	float: left;
+	height: 100%;
+	width: 600px;
+    border-radius: 25px;
+}
+
+
+#right_sidebar{
+    float: right;
+    width: 450px;
+    height:250px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+
+
+.t1{
+	font-family: "Times New Roman";
+	list-style-type: square;
+	color: #FF00CC;
+    font-size: 50px;
+    text-align: center;
+}
+.t2{
+    font-family: "Times New Roman";
+    list-style-type: square;
+    color: black;
+    text-align: justify;
+    font-size: 1.2em;
+    margin-bottom: 50px;
+}
+.t3{
+    font-family: "Times New Roman";
+    list-style-type: square;
+    color: black;
+    text-align: justify;
+    font-size: 1.2em;
+    margin-bottom: 50px;
+}
+#t4{
+    font-family: "Times New Roman";
+    list-style-type: square;
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+img.rad{
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.hed{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Times New Roman";
+    background-color: #0000CC;
+    border-radius: 5px;
+    color: #FFFF33;
+    transition: font-size 0.3 linear; 
+}
+
+.contact_from{
+    background: rgba(0,0,0 .6);
+}
